@@ -1,0 +1,26 @@
+---
+title: "Analisis-de-datos-de-covid-19-en-Costa-Rica---Graficos-del-paquete-ggplot2-y-tablas-del-paquete-DT"
+author: "Dennis Jimenez Badilla"
+date: '2022-05-26'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Entradas 
+
+# Procesamiento
+
+# Datos nacionales
+
+## Tabla
+
+## Grafico de lineas
+
+# Datos cantonales
+
+## Tabla
+
+## Graficos de datos
